@@ -1,0 +1,28 @@
+Solid Edge Conversão para STL
+Data: Wednesday,October 15,2025 09:12PM
+Arquivo de origem:C:\Users\lucas\OneDrive\Documentos\Desenho Técnico\as.par
+Sistema de origem: SOLID EDGE
+
+Hardware:
+Processador 12th Gen Intel(R) Core(TM) i7-1255U
+Sistema operacional: Windows 10
+Memória Instalada: 15,69 GB
+
+Informações de software:
+Versão do Parasolid: 37.0.118
+Versão do PSBodyshop: 37.0.94
+Versão do Adaptador STL: 15.0.142
+Versão do Solid Edge: 225.00.01.004 x64
+
+Opções de exportação do STL:
+Formato do arquivo de saída:BINARY
+Exportar peças exibidas:Desligado
+Opção da estrutura: Monolithic
+Exportar unidades:Millimeter
+Exportar valor de tolerância:0,050000
+Exportar tipo de tolerância:Custom
+Exportar valor do ângulo do plano:0,523599
+
+Progresso da conversão:
+Processo de conversão concluído
+Tempo requerido para converter:00 : 00 : 00
